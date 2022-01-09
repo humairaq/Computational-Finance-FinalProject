@@ -3,7 +3,7 @@
 @Instructor    : Dr. Alex Pang
 @Date          : June 2021
 
-@Student Name  : Humaira Qadeer, Usman Ali, Shadman Saleh Shahriyar
+@Student Name  : Humaira Qadeer
 
 '''
 
