@@ -2,8 +2,7 @@
 @project       : Queens College CSCI 365/765 Computational Finance
 @Instructor    : Dr. Alex Pang
 
-@Student Name  : Humaira Qadeer, Usman Ali, Shadman Saleh Shahriyar
-
+@Student Name  : Humaira Qadeer
 @Date          : June 2021
 
 
